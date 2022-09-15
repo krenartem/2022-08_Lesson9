@@ -19,4 +19,4 @@ int min = int.Parse(Console.ReadLine());
 Console.Write("Введите максимальное значение N: ");
 int max = int.Parse(Console.ReadLine());
 Console.WriteLine("Натуральные числа в промежутке от M до N:");
-Console.WriteLine($"{ShowNaturalNumbers(min,max)}");
+Console.WriteLine($"{ShowNaturalNumbers(min, max)}");
